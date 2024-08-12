@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/P4cm4n90/random/main/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/P4cm4n90/random/main/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/P4cm4n90/random/main/test.yaml",
+        "name": "Foo2"
+    }]
+}
